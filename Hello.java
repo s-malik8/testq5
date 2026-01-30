@@ -1,5 +1,1 @@
-public class Hello {
-    public static void main(String[] args) {
-        System.out.println("Hello from changed version");
-    }
-}
+System.out.println("Change by me");
